@@ -2,10 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/ValidacaoExemplo/bin
-/ValidacaoExemplo/.vs/config
-/ValidacaoExemplo/obj/Debug
 /packages
 /.vs/config
-/AuthenticationExample/obj/Debug
-/AuthenticationExample/bin/roslyn
+/AuthenticationExample/obj
+/AuthenticationExample/bin
