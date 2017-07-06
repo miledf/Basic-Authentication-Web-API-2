@@ -1,7 +1,7 @@
 ﻿using System.Web.Http;
 using AuthenticationExample.Filters;
 
-namespace AuthenticationExample
+namespace AuthenticationExample.App_Start
 {
     public static class WebApiConfig
     {
