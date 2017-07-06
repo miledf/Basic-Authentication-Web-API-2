@@ -6,7 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Web.Http.Filters;
 
-namespace ValidacaoExemplo.Filters
+namespace AuthenticationExample.Filters
 {
     public class BasicAuthenticationAttribute : IAuthenticationFilter
     {

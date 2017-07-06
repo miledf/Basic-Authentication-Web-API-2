@@ -4,7 +4,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Web.Http;
 
-namespace ValidacaoExemplo.Filters
+namespace AuthenticationExample.Filters
 {
     public class AuthenticationFailureResult : IHttpActionResult
     {

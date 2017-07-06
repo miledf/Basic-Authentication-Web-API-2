@@ -2,7 +2,7 @@
 using System.Net.Http.Headers;
 using System.Web.Http.Filters;
 
-namespace ValidacaoExemplo.Filters
+namespace AuthenticationExample.Filters
 {
     public static class HttpAuthenticationChallengeContextExtensions
     {

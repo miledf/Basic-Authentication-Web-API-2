@@ -7,3 +7,5 @@
 /ValidacaoExemplo/obj/Debug
 /packages
 /.vs/config
+/AuthenticationExample/obj/Debug
+/AuthenticationExample/bin/roslyn

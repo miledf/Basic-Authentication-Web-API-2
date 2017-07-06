@@ -1,7 +1,7 @@
 ﻿using System.Web.Http;
-using ValidacaoExemplo.Filters;
+using AuthenticationExample.Filters;
 
-namespace ValidacaoExemplo
+namespace AuthenticationExample
 {
     public static class WebApiConfig
     {

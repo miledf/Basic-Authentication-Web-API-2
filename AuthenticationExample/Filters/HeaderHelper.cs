@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace ValidacaoExemplo.Filters
+namespace AuthenticationExample.Filters
 {
     public static class HeaderHelper
     {

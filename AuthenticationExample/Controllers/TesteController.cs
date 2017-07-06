@@ -1,7 +1,7 @@
 ﻿using System.Web.Http;
 using System.Web.Http.Results;
 
-namespace ValidacaoExemplo.Controllers
+namespace AuthenticationExample.Controllers
 {
     [Authorize]
     [RoutePrefix("api/teste")]
