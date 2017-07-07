@@ -1,4 +1,4 @@
-# Basic-Authentication-Web-API-2
+# Basic Authentication Web API 2
 
 ### Requisitos necessários:
 
