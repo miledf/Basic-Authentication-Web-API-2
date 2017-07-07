@@ -4,7 +4,7 @@
 
 * IIS
 * .NET 4.5
-* Projeto em Visual Studio 2015
+* Visual Studio 2015
 
 Deve publicar via iis  o conteudo do arquivo [v1.rar](./Publicacao/).
 ## Como Rodar 
