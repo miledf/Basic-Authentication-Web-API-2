@@ -4,6 +4,6 @@
 
 /packages
 /.vs/config
-/.vs
+/.vs/
 /AuthenticationExample/obj
 /AuthenticationExample/bin
